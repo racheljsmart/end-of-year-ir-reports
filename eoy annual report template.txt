@@ -1,0 +1,81 @@
+IR Annual Report {$year}
+
+Activity Overview
+
+In this section outline the activity surrounding the repository over the last year. This is a high level overview and not a breakdown of upload numbers.
+
+DigiNole Ingest Counts
+
+Year: total
+
+[line-chart: ingest; x: by month y: total]
+
+[bar-chart: top collections; percentages]
+
+ETDs
+
+[bar chart: by semester]
+
+[line-chart: by year(s)]
+
+Embargo: total
+
+[bar-chart: embargo by discipline]
+
+Honors Theses
+
+[bar chart: by semester]
+
+[line-chart: by year(s)]
+
+Embargo: total
+
+[bar-chart: embargo by discipline]
+
+Submission Form Usage
+
+Scholarly Submission
+
+Submissions: total
+
+[bar-chart: by month]
+
+Minimal Submission
+
+Submissions: total
+
+[bar-chart: by month]
+
+Harvesting
+
+Web of Science
+
+Total metadata records created
+Number of emails sent
+Total uploads to repository
+
+[line-chart: by discipline]
+
+PMC
+
+Total uploads
+
+[line-chart: by discipline]
+
+USPTO
+
+Total uploads
+
+Embargoes
+
+Total number of embargos
+
+Number of expired embargoes
+
+{$year} to {$year} Growth
+
+[line-chart: ingest totals per year]
+
+Future Plans
+
+What we want to accomplish in the next year.
