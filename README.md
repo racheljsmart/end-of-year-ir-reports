@@ -1,5 +1,5 @@
 # end-of-year-ir-reports
-end of year rports for IR
+end of year reports for IR
 
 
 ## Structure of reports
