@@ -3,6 +3,7 @@ end of year reports for IR
 
 
 ## Structure of reports
+- Activity overview
 - Ingest counts: by year, month, ETDs, and top collection
 - Harvesting: by Wos, PMC, USPTO
 - Embargos
